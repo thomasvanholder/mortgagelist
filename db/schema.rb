@@ -22,12 +22,15 @@ ActiveRecord::Schema.define(version: 2020_10_05_163808) do
     t.datetime "updated_at", precision: 6, null: false
   end
 
-  create_table "mortages", force: :cascade do |t|
+  create_table "mortgages", force: :cascade do |t|
     t.integer "duration"
     t.float "interest"
     t.float "ltv"
+    t.bigint "lender_id", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
+    t.index ["lender_id"], name: "index_mortgages_on_lender_id"
   end
 
+  add_foreign_key "mortgages", "lenders"
 end

@@ -1,2 +1,0 @@
-class Mortage < ApplicationRecord
-end

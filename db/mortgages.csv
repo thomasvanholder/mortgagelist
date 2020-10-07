@@ -1,0 +1,71 @@
+Lender,Duration,LTV,Interest
+De Nederlandse,1,60%,3.60%
+De Nederlandse,2,60%,3.40%
+De Nederlandse,3,60%,3.15%
+De Nederlandse,5,60%,3.15%
+De Nederlandse,7,60%,3.20%
+De Nederlandse,10,60%,3.45%
+De Nederlandse,1,65%,3.65%
+De Nederlandse,2,65%,3.45%
+De Nederlandse,3,65%,3.25%
+De Nederlandse,5,65%,3.25%
+De Nederlandse,7,65%,3.25%
+De Nederlandse,10,65%,3.50%
+De Nederlandse,1,70%,3.70%
+De Nederlandse,2,70%,3.45%
+De Nederlandse,3,70%,3.30%
+De Nederlandse,5,70%,3.30%
+De Nederlandse,7,70%,3.30%
+De Nederlandse,10,70%,3.55%
+De Nederlandse,1,75%,4.00%
+De Nederlandse,2,75%,3.75%
+De Nederlandse,3,75%,3.60%
+De Nederlandse,5,75%,3.60%
+De Nederlandse,7,75%,3.60%
+De Nederlandse,10,75%,3.85%
+De Nederlandse,1,80%,4.25%
+De Nederlandse,2,80%,4.10%
+De Nederlandse,3,80%,3.90%
+De Nederlandse,5,80%,3.90%
+De Nederlandse,7,80%,3.90%
+De Nederlandse,10,80%,4.15%
+Domivest,1,60%,3.40%
+Domivest,3,60%,3.20%
+Domivest,5,60%,3.20%
+Domivest,7,60%,3.20%
+Domivest,10,60%,3.45%
+Domivest,1,65%,3.45%
+Domivest,3,65%,3.25%
+Domivest,5,65%,3.25%
+Domivest,7,65%,3.25%
+Domivest,10,65%,3.50%
+Domivest,1,70%,3.50%
+Domivest,3,70%,3.30%
+Domivest,5,70%,3.30%
+Domivest,7,70%,3.30%
+Domivest,10,70%,3.55%
+Domivest,1,75%,3.80%
+Domivest,3,75%,3.60%
+Domivest,5,75%,3.60%
+Domivest,7,75%,3.60%
+Domivest,10,75%,3.85%
+Domivest,1,80%,4.10%
+Domivest,3,80%,3.90%
+Domivest,5,80%,3.90%
+Domivest,7,80%,3.90%
+Domivest,10,80%,4.15%
+RNHB,1,60%,3.50%
+RNHB,3,60%,3.00%
+RNHB,5,60%,3.00%
+RNHB,7,60%,3.15%
+RNHB,10,60%,3.70%
+RNHB,1,70%,3.60%
+RNHB,3,70%,3.35%
+RNHB,5,70%,3.35%
+RNHB,7,70%,3.50%
+RNHB,10,70%,3.80%
+RNHB,1,80%,4.00%
+RNHB,3,80%,3.75%
+RNHB,5,80%,3.75%
+RNHB,7,80%,3.90%
+RNHB,10,80%,4.35%
